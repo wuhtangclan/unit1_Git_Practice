@@ -1,0 +1,120 @@
+### Step 2A
+
+wuhta@DESKTOP-DN5A86S MINGW64 ~
+$ pwd
+/c/Users/wuhta
+
+
+
+### Step 2B
+cd /c/Users/wuhta/OneDrive/desktop
+
+
+
+### Step 2C
+cd /c/Users/wuhta/OneDrive/desktop/unit\ 1\ -git-practice/
+
+
+
+### Step 2D
+$ pwd
+/c/Users/wuhta/OneDrive/desktop/unit 1 -git-practice
+
+
+### Step 2E
+$ ls
+'my-steps (1).txt'
+
+
+### Step 2F
+$ ls
+'my-steps (1).txt'
+
+
+### Step 2G
+$ cd ..
+$ cd ..
+
+
+
+### Step 2H
+$ pwd
+/c
+
+
+### Step 2I
+$ ls
+'$MfeDeepRem'/              FIOD.manifest           Recovery/
+'$Recycle.Bin'/             Intel/                 'System Volume Information'/
+'$WinREAgent'/              Log/                    Users/
+ Apps/                      OneDriveTemp/           Windows/
+ Config.Msi/                PerfLogs/               dell.sdr
+ DELL/                     'Program Files'/         hiberfil.sys
+'Documents and Settings'@  'Program Files (x86)'/   pagefile.sys
+ Drivers/                   ProgramData/            swapfile.sys
+ DumpStack.log.tmp          ProgramFilesFolder/
+
+
+### Step 2J
+$ cd ~
+
+
+### Step 2K
+ cd /c/Users/wuhta/OneDrive/desktop/unit\ 1\ -git-practice/
+
+
+
+### Step 3A
+
+
+### Step 3B
+
+
+### Step 3C
+
+
+### Step 3D
+
+
+### Step 3E
+
+
+### Step 3F
+
+
+### Step 3G
+
+
+### Step 3H
+
+
+### Step 3I
+
+
+### Step 3J
+
+
+### Step 3K
+
+
+### Step 3L
+
+
+### Step 3M
+
+
+### Step 3N
+
+
+
+### Step 4
+
+
+### Step 5
+
+
+### Step 6
+
+
+### Step 7
+*** DO NOT RECORD STEP 7 ***
